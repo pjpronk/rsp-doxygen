@@ -1,0 +1,12 @@
+digraph "pcl_obstacle_detector/include/pcl_obstacle_detector"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_c656f9e259fc26c236d5fd02e5c449ad {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="include", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_c656f9e259fc26c236d5fd02e5c449ad.html",tooltip=""]
+  dir_00b40f09ae6286402a556f95df678014 [label="pcl_obstacle_detector", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_00b40f09ae6286402a556f95df678014.html",tooltip=""];
+  }
+}

@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['default_5fangular_5fvelocity_5fz_5fleft_0',['DEFAULT_ANGULAR_VELOCITY_Z_LEFT',['../classControlBarrelWorld.html#aae90fee95d5962ebb0efae600f065df2',1,'ControlBarrelWorld']]],
+  ['default_5fangular_5fvelocity_5fz_5fright_1',['DEFAULT_ANGULAR_VELOCITY_Z_RIGHT',['../classControlBarrelWorld.html#a92a05cc5b974951cf39ec98fc4fee13d',1,'ControlBarrelWorld']]],
+  ['default_5fcluster_5ftolerance_2',['DEFAULT_CLUSTER_TOLERANCE',['../classPclObstacleDetector.html#ac0630eecd19f3c0c69c04c69f315c3d8',1,'PclObstacleDetector']]],
+  ['default_5fground_5fplane_5fdistance_5fthreshold_3',['DEFAULT_GROUND_PLANE_DISTANCE_THRESHOLD',['../classPclObstacleDetector.html#a3277ac5ace3c5ea88d6f4e225dd31f29',1,'PclObstacleDetector']]],
+  ['default_5flinear_5fvelocity_5fx_5fforward_4',['DEFAULT_LINEAR_VELOCITY_X_FORWARD',['../classControlBarrelWorld.html#acbefe6fb125e0c499da53fc52dc78c41',1,'ControlBarrelWorld']]],
+  ['default_5fmax_5fcluster_5fsize_5',['DEFAULT_MAX_CLUSTER_SIZE',['../classPclObstacleDetector.html#a35a08bd7f8616f186890e7911d206d5b',1,'PclObstacleDetector']]],
+  ['default_5fmin_5fcluster_5fsize_6',['DEFAULT_MIN_CLUSTER_SIZE',['../classPclObstacleDetector.html#a5ea42b7c36533abfdc907c8e6f388eb0',1,'PclObstacleDetector']]],
+  ['default_5fperson_5farea_5fthreshold_7',['DEFAULT_PERSON_AREA_THRESHOLD',['../classControlBarrelWorld.html#a1ade9e3e4bffb5f443a7aa5edddcb29d',1,'ControlBarrelWorld']]],
+  ['default_5fx_5fmax_8',['DEFAULT_X_MAX',['../classPclObstacleDetector.html#a75ff6eea97b0b0526475c354ffafb5cd',1,'PclObstacleDetector']]],
+  ['default_5fx_5fmin_9',['DEFAULT_X_MIN',['../classPclObstacleDetector.html#aece082382850d4dbe425f8f52fe6c984',1,'PclObstacleDetector']]],
+  ['default_5fy_5fmax_10',['DEFAULT_Y_MAX',['../classPclObstacleDetector.html#a983c65ad497b7977cc40ef97564fa067',1,'PclObstacleDetector']]],
+  ['default_5fy_5fmin_11',['DEFAULT_Y_MIN',['../classPclObstacleDetector.html#ad6b2266f5f5bdc26a5bf66404147f319',1,'PclObstacleDetector']]],
+  ['default_5fz_5fmax_12',['DEFAULT_Z_MAX',['../classPclObstacleDetector.html#a47bda54d5008074b2c38e05c3d7acdbf',1,'PclObstacleDetector']]],
+  ['default_5fz_5fmin_13',['DEFAULT_Z_MIN',['../classPclObstacleDetector.html#abaece79bdc3eaa37411847edb440432c',1,'PclObstacleDetector']]],
+  ['detections_5fpublisher_5f_14',['detections_publisher_',['../classPclObstacleDetector.html#a15bd5275e0f6ddadb4d3d4ef3892e88a',1,'PclObstacleDetector']]],
+  ['detections_5fsubscription_5f_15',['detections_subscription_',['../classControlBarrelWorld.html#aebbf8718b928f89e27f769870c9718ff',1,'ControlBarrelWorld']]]
+];
